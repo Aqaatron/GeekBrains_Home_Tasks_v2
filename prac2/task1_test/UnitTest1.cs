@@ -16,6 +16,14 @@ namespace task1_test
             // act
             TestList.AddNode(5);
 
+            Assert.AreEqual(5, TestList.StartNode.Value);
+
+            Assert.AreEqual(5, TestList.FinishNode.Value);
+
+            Assert.AreEqual(null, TestList.FinishNode.NextNode);
+
+            Assert.AreEqual(null, TestList.StartNode.PrevNode);
+
             TestList.AddNode(90);
 
             TestList.AddNode(46);
