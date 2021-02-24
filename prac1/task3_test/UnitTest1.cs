@@ -39,6 +39,13 @@ namespace task3_test
 
             // assert
             Assert.AreEqual(610, result3);
+
+            int n4 = 16;
+
+            int result4 = program.Fibonachi_rec(n4);
+
+            // assert
+            Assert.AreEqual(987, result4);
         }
 
         public void test_fibonachi()
