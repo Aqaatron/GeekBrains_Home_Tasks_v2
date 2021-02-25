@@ -14,6 +14,8 @@ namespace task1
 
             TestList.AddNode(5);
 
+            TestList.RemoveNode(0);
+
             TestList.AddNode(46);
 
             TestList.AddNodeAfter(TestList.StartNode, 101);
