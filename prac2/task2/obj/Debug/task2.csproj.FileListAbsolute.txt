@@ -1,7 +1,0 @@
-D:\Обучение программированию\Geek_Brains_new\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks_course_2\prac2\task2\bin\Debug\task2.exe.config
-D:\Обучение программированию\Geek_Brains_new\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks_course_2\prac2\task2\bin\Debug\task2.exe
-D:\Обучение программированию\Geek_Brains_new\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks_course_2\prac2\task2\bin\Debug\task2.pdb
-D:\Обучение программированию\Geek_Brains_new\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks_course_2\prac2\task2\obj\Debug\task2.csprojAssemblyReference.cache
-D:\Обучение программированию\Geek_Brains_new\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks_course_2\prac2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
-D:\Обучение программированию\Geek_Brains_new\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks_course_2\prac2\task2\obj\Debug\task2.exe
-D:\Обучение программированию\Geek_Brains_new\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks\GeekBrains_Home_Tasks_course_2\prac2\task2\obj\Debug\task2.pdb
